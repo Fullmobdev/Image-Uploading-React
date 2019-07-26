@@ -1,0 +1,5 @@
+node_modules
+*.log
+.tern-project
+server/static
+static
